@@ -12,7 +12,7 @@ featured: true
 
 c언어로 hello world 출력
 
-```c
+```c++
 
 int main()
 {
