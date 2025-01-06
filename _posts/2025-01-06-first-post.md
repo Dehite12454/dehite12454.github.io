@@ -12,9 +12,7 @@ featured: true
 
 c언어로 hello world 출력
 
-{% highlight c linenos %}
-
-#include <stdio.h>
+---c
 
 int main()
 {
@@ -23,4 +21,4 @@ int main()
     return 0;
 }
 
-{% endhighlight %}
+---
