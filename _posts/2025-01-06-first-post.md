@@ -3,8 +3,8 @@ layout: post
 title: 첫 번째 블로그 포스트
 date: 2025-01-16 23:09:00
 description: hello world
-tags: formatting code
-categories: sample-posts
+tags: c code
+categories: c
 featured: true
 ---
 
