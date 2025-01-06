@@ -14,7 +14,6 @@ c언어로 hello world 출력
 
 {% highlight c linenos %}
 
-```c
 #include <stdio.h>
 
 int main()
@@ -23,6 +22,5 @@ int main()
 
     return 0;
 }
-```
 
 {% endhighlight %}
